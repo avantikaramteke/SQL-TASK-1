@@ -1,0 +1,1 @@
+alter table employee_database add column State varchar(50) default 'Maharashtra' not null;

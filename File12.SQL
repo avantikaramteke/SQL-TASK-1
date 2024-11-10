@@ -1,0 +1,1 @@
+update employee_database set state = 'Himachal Pradesh' where isactive = false;

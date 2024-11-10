@@ -1,0 +1,1 @@
+alter table employee_database rename column Lastname to surname

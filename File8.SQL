@@ -1,0 +1,1 @@
+alter table employee_details rename to employee_database
